@@ -1,0 +1,15 @@
+<!--start.wxml-->
+
+<!--pages/start/start.wxml-->
+
+<image class="logo" src="//wallpapers.wallhaven.cc/wallpapers/full/wallhaven-708677.png" mode="scaleToFill" ></image>
+
+<view class="bg">
+
+<button class="btn4" bindtap="getDataFromOneNet">
+
+获取噪音信息</button>
+
+<text id="text">发现噪音源！</text>
+
+</view>
