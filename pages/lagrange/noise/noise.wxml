@@ -1,0 +1,6 @@
+<!--pages/lagrange/noise/noise.wxml-->
+<image class="logo" src="//wallpapers.wallhaven.cc/wallpapers/full/wallhaven-626895.jpg" mode="scaleToFill" ></image>
+<view class="usermotto">
+    <text class="user-motto">{{motto1+motto2+motto3+motto4}}</text>
+  </view>
+<button class="btn" type="primary" plain="true" bindtap='join'>联系管理者</button>
